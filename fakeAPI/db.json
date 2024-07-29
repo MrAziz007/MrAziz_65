@@ -1,0 +1,144 @@
+{
+    "cars": [
+        {
+            "name": "Ferrari",
+            "year": 1998,
+            "color": "yellow"
+        },
+        {
+            "name": "Porsche",
+            "year": 2000,
+            "color": "black"
+        },
+        {
+            "name": "Tesla",
+            "year": 2022,
+            "color": "blue"
+        },
+        {
+            "name": "BMW",
+            "year": 2007,
+            "color": "silver"
+        },
+        {
+            "name": "Audi",
+            "year": 2019,
+            "color": "green"
+        },
+        {
+            "name": "Mercedes",
+            "year": 1995,
+            "color": "gray"
+        },
+        {
+            "name": "Volkswagen",
+            "year": 2021,
+            "color": "orange"
+        },
+        {
+            "name": "Mazda",
+            "year": 2014,
+            "color": "purple"
+        },
+        {
+            "name": "Toyota",
+            "year": 2013,
+            "color": "brown"
+        },
+        {
+            "name": "Nissan",
+            "year": 2023,
+            "color": "gold"
+        },
+        {
+            "name": "Chevrolet",
+            "year": 2000,
+            "color": "maroon"
+        },
+        {
+            "name": "Honda",
+            "year": 2012,
+            "color": "navy"
+        },
+        {
+            "name": "Kia",
+            "year": 2011,
+            "color": "olive"
+        },
+        {
+            "name": "Hyundai",
+            "year": 2015,
+            "color": "teal"
+        },
+        {
+            "name": "Ford",
+            "year": 2004,
+            "color": "lime"
+        },
+        {
+            "name": "Lexus",
+            "year": 2017,
+            "color": "pink"
+        },
+        {
+            "name": "Jeep",
+            "year": 2009,
+            "color": "cyan"
+        },
+        {
+            "name": "Dodge",
+            "year": 2019,
+            "color": "magenta"
+        },
+        {
+            "name": "Chrysler",
+            "year": 2006,
+            "color": "violet"
+        },
+        {
+            "name": "Subaru",
+            "year": 2021,
+            "color": "indigo"
+        },
+        {
+            "name": "Acura",
+            "year": 2022,
+            "color": "coral"
+        },
+        {
+            "name": "Infiniti",
+            "year": 2023,
+            "color": "turquoise"
+        },
+        {
+            "name": "Jaguar",
+            "year": 2011,
+            "color": "beige"
+        },
+        {
+            "name": "Land Rover",
+            "year": 2002,
+            "color": "charcoal"
+        },
+        {
+            "name": "Maserati",
+            "year": 2013,
+            "color": "bronze"
+        },
+        {
+            "name": "Bentley",
+            "year": 2008,
+            "color": "cream"
+        },
+        {
+            "name": "Rolls-Royce",
+            "year": 2005,
+            "color": "lavender"
+        },
+        {
+            "name": "Bugatti",
+            "year": 2016,
+            "color": "peach"
+        }    
+    ]
+}
